@@ -1,7 +1,7 @@
 
 
 from TextSummarizer.config.configuration import ConfigurationManager
-from TextSummarizer.components.data_evaluation import ModelEvaluation 
+from TextSummarizer.components.model_evaluation import ModelEvaluation 
 from TextSummarizer.logging import logger
 
 

@@ -1,6 +1,6 @@
 
 from TextSummarizer.config.configuration import ConfigurationManager
-from TextSummarizer.components.data_training import ModelTrainer 
+from TextSummarizer.components.model_trainer import ModelTrainer 
 from TextSummarizer.logging import logger
 
 
