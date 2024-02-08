@@ -4,7 +4,7 @@ from TextSummarizer.components.model_trainer import ModelTrainer
 from TextSummarizer.logging import logger
 
 
-class DataTrainingTrainingPipeline:
+class ModelTrainerTrainingPipeline:
     def __init__(self):
         pass
 

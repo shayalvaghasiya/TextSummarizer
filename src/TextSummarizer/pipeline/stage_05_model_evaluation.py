@@ -5,7 +5,7 @@ from TextSummarizer.components.model_evaluation import ModelEvaluation
 from TextSummarizer.logging import logger
 
 
-class DataEvaluationTrainingPipeline:
+class ModelEvaluationTrainingPipeline:
     def __init__(self):
         pass
 
