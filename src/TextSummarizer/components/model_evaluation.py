@@ -2,7 +2,7 @@
 import os
 from TextSummarizer.logging import logger
 from TextSummarizer.entity import ModelEvaluationConfig
-from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 from datasets import load_dataset, load_from_disk, load_metric
 import torch
 import pandas as pd
